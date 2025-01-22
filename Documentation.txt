@@ -34,3 +34,10 @@ for staging area to git dir -> git commit
 
 we can't commit without a message 
 we can do this by using --allow-empty
+
+if you ran the git init in the wrong folder what will you do, you can just dlt git
+file which is hidden in the your repo
+
+git status - is used to see what type of changes you have made in your repo
+
+if you do git add . this will add all the changes instead of one by one
