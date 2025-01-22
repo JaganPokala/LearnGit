@@ -1,0 +1,36 @@
+git important terminologies
+
+Repo - folder of the project on which you are working which is tracked by git
+there are 3 types of areas - 
+working directory - this is where you make your changes
+staging area - this is the area where we bring files from working directory and make 
+               commit or take snapshot we do this using a command 
+git Directory - this is the final repository , when we commit 
+
+we can move from working directory to staging area by using add command 
+when we do commit in staging area cur directory becomes git directory
+
+push command - 
+pull command - 
+clone - 
+merge - 
+confilct , resolving confilct
+     
+cd.. go out side the current directoryls
+
+first of all you have to initialize current dir as git repo
+if you want to track using git 
+.git folder holds all the info to track ur project 
+this folder is created by git init command but u can't see it since it is hidden folder 
+
+this is still showing as there are pending changes
+this is because we r currently in working directory
+
+git directory contains final files 
+inorder to move from working dir to git dir we have to bring files from working dir to 
+staging area by git add
+for staging area to git dir -> git commit
+?why do we use staging instead of directly commiting to gir dir
+
+we can't commit without a message 
+we can do this by using --allow-empty
