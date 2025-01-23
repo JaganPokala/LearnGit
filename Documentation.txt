@@ -99,3 +99,5 @@ but what if i want to brach some previously commited brach, i don't need all inf
 about after that commit??
 
 git merge x - to merge branch x into the current branch we are in 
+
+git checkout -b branchname - to directly create a branch and go to that branch
