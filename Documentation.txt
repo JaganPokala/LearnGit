@@ -52,6 +52,7 @@ some commands like
 - git status //to check what kind of changes are present
 - git log //shows a log of all kind of commits we have made
 
+/*----------------------------------------------
 23/01/25 - it's almost a month in 2025 what i did in these 
 days ??
 done some easy cf problems trying to improve my spead?
@@ -72,3 +73,27 @@ i'm buying it tommorow
 inorder to create a new folder we use mkdir 
 if we want to create an empty file we can use touch filename.txt
 if we want to create a file with some text we can use echo "some text here" > filename.txt
+
+Learning about branching and merging :
+used git graph for seeing what we are doing 
+by default, default branch of any git repo is main branch 
+git branch will show all the branches
+
+how to create a new branch?
+so now i want to learn about branching i wil go the yesterday's last commit and 
+try to write today's documentation again 
+
+how to create a new branch - git branch branchname
+git branch -> to see all the branches which are present 
+git checkout branchname -> to go to another branch 
+
+
+??which branch does this file lies in?
+?? if i modify where these changes appear, new branch or main branches?
+currently i'm in 23-branch if i cummit these changes will be commited on 23-branch 
+
+*/---------------------------------------------------------
+
+i'm assuming that if i do some changes in this file they will be reflected in 
+newly created branch and not in main - this is definetly true since we are in 
+newly created branch
