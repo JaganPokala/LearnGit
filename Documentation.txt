@@ -51,3 +51,24 @@ some commands like
 - git commit -m ""
 - git status //to check what kind of changes are present
 - git log //shows a log of all kind of commits we have made
+
+23/01/25 - it's almost a month in 2025 what i did in these 
+days ??
+done some easy cf problems trying to improve my spead?
+did you observe any changes ?
+yes i'm improving but still i have to imporve 
+- u have to focus on your health 
+- learn os 
+- learn web dev for projects 
+i'm willing to buy az 1 month if i buy that then there will
+be no room for time waste i have to be strict with my schedule
+from 24th onwards i have exams so if i buy today i have to 
+finish dp graphs and all those projects with in 1 month 
+it is definetly possible 
+i'm buying it tommorow 
+
+----------------
+
+inorder to create a new folder we use mkdir 
+if we want to create an empty file we can use touch filename.txt
+if we want to create a file with some text we can use echo "some text here" > filename.txt
