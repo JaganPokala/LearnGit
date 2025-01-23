@@ -52,6 +52,7 @@ some commands like
 - git status //to check what kind of changes are present
 - git log //shows a log of all kind of commits we have made
 
+/*----------------------------------------------
 23/01/25 - it's almost a month in 2025 what i did in these 
 days ??
 done some easy cf problems trying to improve my spead?
