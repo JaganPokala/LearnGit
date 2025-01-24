@@ -114,3 +114,17 @@ git reset --hard HEAD~1 if we want to uncommit , unstage and discord
 
 ??new commit is made only when there is a mrege conflict??
 ??what is a merge editor and text editor?
+
+so no i'm learning about undoing changes and recovering mistakes 
+
+to discord all changes from working directory - git restore filename
+but staged changes are not restored like that since they are being tracked??
+
+git restore --staged filename -> to unstage the changes 
+// -- this symbol is called flag ?
+
+if you have committed the changes
+git reset --soft hash of the commit we want to move to staged area
+
+inorder to remove some commit in between which may cause some problems in 
+feature we have to use revert instead of reset/restore 
