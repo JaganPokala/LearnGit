@@ -101,3 +101,16 @@ about after that commit??
 git merge x - to merge branch x into the current branch we are in 
 
 git checkout -b branchname - to directly create a branch and go to that branch
+
+i modified in main brach instead of another branch and made a commit
+how can i uncommit that ??
+
+git reset --soft HEAD~1 if we just want to uncommit but keep the 
+            changes stagged
+git reset --mixed HEAD~1 if we want to uncommit and unstage the 
+            changes but changes remain same 
+git reset --hard HEAD~1 if we want to uncommit , unstage and discord
+            the changes, once you do this changes can't be retrived
+
+??new commit is made only when there is a mrege conflict??
+??what is a merge editor and text editor?
