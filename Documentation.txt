@@ -146,6 +146,40 @@ origin - aliasing name for the repo it's like key value pair
 - if there are files already do ->  git pull origin branchname
 - if you want to push changes -> git push origin branchname
 
-resolved some bug here 
+git fetch - downloads all the commits and metadata but it will keep it aside 
+out code isn't updated until we use git pull
+this just gets new branches and new commits made by others without changing 
+our working directory
 
-Added some code here 
+to clone any other repo we will copy link of code and go to your laptop and
+create new folder and open it and wirte git clone link 
+-----booom you can view all the code there .....but if u have done some changes 
+then u can't be able to do git push origin branchname because you are not a
+collaborator
+
+then how can we contribute to something ??
+for this we use fork
+what fork does is it will create an exact copy in your github account also
+
+
+both git clone and git remote add origin <link> require access, then what is the
+difference between them 
+
+git clone - if are starting to work on previously existing repo then you will 
+            clone 
+          - this creates a local repo 
+          - fork some unaccessed repo - clone that forked repo work onit 
+            later create a pr
+
+later - if have already worked on some project and want to others you can just 
+        push
+        this doesn't creates a local repo
+
+
+what we did today 
+- remote add
+- push/pull/fetch
+- cloning
+- creating pr
+- forking 
+    
