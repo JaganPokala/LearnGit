@@ -146,5 +146,6 @@ origin - aliasing name for the repo it's like key value pair
 - if there are files already do ->  git pull origin branchname
 - if you want to push changes -> git push origin branchname
 
-
 resolved some bug here 
+
+Added some code here 
