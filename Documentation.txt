@@ -138,3 +138,5 @@ remote - you are adding a link to a remote repository
 add - key for adding
 origin - aliasing name for the repo it's like key value pair
 .git folder creates a key named origin by which we can access the link 
+
+Added some code here 
