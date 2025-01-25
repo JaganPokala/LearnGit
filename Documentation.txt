@@ -130,13 +130,22 @@ inorder to remove some commit in between which may cause some problems in
 feature we have to use revert instead of reset/restore 
 
 
+
+
+
 25-01-25
+
 Learining about GitHub
 git remote add origin git@github.com:JaganPokala/LearnGit.git
-
 remote - you are adding a link to a remote repository
 add - key for adding
 origin - aliasing name for the repo it's like key value pair
 .git folder creates a key named origin by which we can access the link 
+
+- add link using remote add origin link.git
+- if there are files already do ->  git pull origin branchname
+- if you want to push changes -> git push origin branchname
+
+resolved some bug here 
 
 Added some code here 
