@@ -131,3 +131,7 @@ feature we have to use revert instead of reset/restore
 
 hey i'm oneGoal25 
 i'm doing some changes here......:)
+
+- add link using remote add origin link.git
+- if there are files already do ->  git pull origin branchname
+- if you want to push changes -> git push origin branchname
