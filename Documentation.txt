@@ -128,3 +128,6 @@ git reset --soft hash of the commit we want to move to staged area
 
 inorder to remove some commit in between which may cause some problems in 
 feature we have to use revert instead of reset/restore 
+
+hey i'm oneGoal25 
+i'm doing some changes here......:)
