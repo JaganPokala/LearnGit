@@ -145,3 +145,6 @@ origin - aliasing name for the repo it's like key value pair
 - add link using remote add origin link.git
 - if there are files already do ->  git pull origin branchname
 - if you want to push changes -> git push origin branchname
+
+
+resolved some bug here 
